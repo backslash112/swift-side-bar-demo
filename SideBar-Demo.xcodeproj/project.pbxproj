@@ -15,6 +15,7 @@
 		64F148B31A3DB44A00E8DBD0 /* SideBar_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F148B21A3DB44A00E8DBD0 /* SideBar_DemoTests.swift */; };
 		64F148BF1A3DB61100E8DBD0 /* SideBarTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F148BE1A3DB61100E8DBD0 /* SideBarTableViewController.swift */; };
 		64F148C11A3DBF4300E8DBD0 /* SideBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F148C01A3DBF4300E8DBD0 /* SideBar.swift */; };
+		64F148C31A3DC91800E8DBD0 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 64F148C21A3DC91800E8DBD0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		64F148B21A3DB44A00E8DBD0 /* SideBar_DemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideBar_DemoTests.swift; sourceTree = "<group>"; };
 		64F148BE1A3DB61100E8DBD0 /* SideBarTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarTableViewController.swift; sourceTree = "<group>"; };
 		64F148C01A3DBF4300E8DBD0 /* SideBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBar.swift; sourceTree = "<group>"; };
+		64F148C21A3DC91800E8DBD0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		64F1488E1A3DB44A00E8DBD0 = {
 			isa = PBXGroup;
 			children = (
+				64F148C21A3DC91800E8DBD0 /* README.md */,
 				64F148991A3DB44A00E8DBD0 /* SideBar-Demo */,
 				64F148AF1A3DB44A00E8DBD0 /* SideBar-DemoTests */,
 				64F148981A3DB44A00E8DBD0 /* Products */,
@@ -220,6 +223,7 @@
 			files = (
 				64F1489F1A3DB44A00E8DBD0 /* ViewController.swift in Sources */,
 				64F148BF1A3DB61100E8DBD0 /* SideBarTableViewController.swift in Sources */,
+				64F148C31A3DC91800E8DBD0 /* README.md in Sources */,
 				64F148C11A3DBF4300E8DBD0 /* SideBar.swift in Sources */,
 				64F1489D1A3DB44A00E8DBD0 /* AppDelegate.swift in Sources */,
 			);
